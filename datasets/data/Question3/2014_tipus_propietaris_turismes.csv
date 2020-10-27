@@ -1,0 +1,223 @@
+Any,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Tipus_propietari,Nombre_turismes
+2014,1,Ciutat Vella,1,el Raval,Persona física,5571
+2014,1,Ciutat Vella,2,el Barri Gòtic,Persona física,2418
+2014,1,Ciutat Vella,3,la Barceloneta,Persona física,3291
+2014,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Persona física,3837
+2014,2,Eixample,5,el Fort Pienc,Persona física,9207
+2014,2,Eixample,6,la Sagrada Família,Persona física,14595
+2014,2,Eixample,7,la Dreta de l'Eixample,Persona física,12866
+2014,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Persona física,11628
+2014,2,Eixample,9,la Nova Esquerra de l'Eixample,Persona física,17785
+2014,2,Eixample,10,Sant Antoni,Persona física,9891
+2014,3,Sants-Montjuïc,11,el Poble Sec,Persona física,8823
+2014,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Persona física,750
+2014,3,Sants-Montjuïc,13,la Marina de Port,Persona física,9560
+2014,3,Sants-Montjuïc,14,la Font de la Guatlla,Persona física,3029
+2014,3,Sants-Montjuïc,15,Hostafrancs,Persona física,4390
+2014,3,Sants-Montjuïc,16,la Bordeta,Persona física,5831
+2014,3,Sants-Montjuïc,17,Sants - Badal,Persona física,7086
+2014,3,Sants-Montjuïc,18,Sants,Persona física,11402
+2014,4,Les Corts,19,les Corts,Persona física,17071
+2014,4,Les Corts,20,la Maternitat i Sant Ramon,Persona física,8969
+2014,4,Les Corts,21,Pedralbes,Persona física,6174
+2014,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Persona física,1730
+2014,5,Sarrià-Sant Gervasi,23,Sarrià,Persona física,9468
+2014,5,Sarrià-Sant Gervasi,24,les Tres Torres,Persona física,7478
+2014,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Persona física,10145
+2014,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Persona física,19246
+2014,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Persona física,10169
+2014,6,Gràcia,28,Vallcarca i els Penitents,Persona física,5365
+2014,6,Gràcia,29,el Coll,Persona física,2146
+2014,6,Gràcia,30,la Salut,Persona física,4599
+2014,6,Gràcia,31,la Vila de Gràcia,Persona física,11962
+2014,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Persona física,10712
+2014,7,Horta-Guinardó,33,el Baix Guinardó,Persona física,7754
+2014,7,Horta-Guinardó,34,Can Baró,Persona física,2721
+2014,7,Horta-Guinardó,35,el Guinardó,Persona física,10937
+2014,7,Horta-Guinardó,36,la Font d'en Fargues,Persona física,3843
+2014,7,Horta-Guinardó,37,el Carmel,Persona física,9343
+2014,7,Horta-Guinardó,38,la Teixonera,Persona física,3719
+2014,7,Horta-Guinardó,39,Sant Genís dels Agudells,Persona física,2491
+2014,7,Horta-Guinardó,40,Montbau,Persona física,1695
+2014,7,Horta-Guinardó,41,la Vall d'Hebron,Persona física,1992
+2014,7,Horta-Guinardó,42,la Clota,Persona física,123
+2014,7,Horta-Guinardó,43,Horta,Persona física,8721
+2014,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Persona física,7616
+2014,8,Nou Barris,45,Porta,Persona física,7088
+2014,8,Nou Barris,46,el Turó de la Peira,Persona física,3572
+2014,8,Nou Barris,47,Can Peguera,Persona física,601
+2014,8,Nou Barris,48,la Guineueta,Persona física,5035
+2014,8,Nou Barris,49,Canyelles,Persona física,2834
+2014,8,Nou Barris,50,les Roquetes,Persona física,4518
+2014,8,Nou Barris,51,Verdun,Persona física,3441
+2014,8,Nou Barris,52,la Prosperitat,Persona física,8150
+2014,8,Nou Barris,53,la Trinitat Nova,Persona física,1892
+2014,8,Nou Barris,54,Torre Baró,Persona física,791
+2014,8,Nou Barris,55,Ciutat Meridiana,Persona física,2832
+2014,8,Nou Barris,56,Vallbona,Persona física,402
+2014,9,Sant Andreu,57,la Trinitat Vella,Persona física,2702
+2014,9,Sant Andreu,58,Baró de Viver,Persona física,606
+2014,9,Sant Andreu,59,el Bon Pastor,Persona física,3692
+2014,9,Sant Andreu,60,Sant Andreu,Persona física,18284
+2014,9,Sant Andreu,61,la Sagrera,Persona física,8899
+2014,9,Sant Andreu,62,el Congrés i els Indians,Persona física,3829
+2014,9,Sant Andreu,63,Navas,Persona física,6741
+2014,10,Sant Martí,64,el Camp de l'Arpa del Clot,Persona física,11308
+2014,10,Sant Martí,65,el Clot,Persona física,8200
+2014,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Persona física,4250
+2014,10,Sant Martí,67,la Vila Olímpica del Poblenou,Persona física,3252
+2014,10,Sant Martí,68,el Poblenou,Persona física,9325
+2014,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Persona física,3661
+2014,10,Sant Martí,70,el Besòs i el Maresme,Persona física,5856
+2014,10,Sant Martí,71,Provençals del Poblenou,Persona física,6293
+2014,10,Sant Martí,72,Sant Martí de Provençals,Persona física,8141
+2014,10,Sant Martí,73,la Verneda i la Pau,Persona física,9529
+2014,99,No consta,99,No consta,Persona física,1354
+2014,1,Ciutat Vella,1,el Raval,Persona  jurídica,651
+2014,1,Ciutat Vella,2,el Barri Gòtic,Persona  jurídica,4159
+2014,1,Ciutat Vella,3,la Barceloneta,Persona  jurídica,302
+2014,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Persona  jurídica,605
+2014,2,Eixample,5,el Fort Pienc,Persona  jurídica,1894
+2014,2,Eixample,6,la Sagrada Família,Persona  jurídica,1306
+2014,2,Eixample,7,la Dreta de l'Eixample,Persona  jurídica,6851
+2014,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Persona  jurídica,4044
+2014,2,Eixample,9,la Nova Esquerra de l'Eixample,Persona  jurídica,3667
+2014,2,Eixample,10,Sant Antoni,Persona  jurídica,1341
+2014,3,Sants-Montjuïc,11,el Poble Sec,Persona  jurídica,499
+2014,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Persona  jurídica,3065
+2014,3,Sants-Montjuïc,13,la Marina de Port,Persona  jurídica,1158
+2014,3,Sants-Montjuïc,14,la Font de la Guatlla,Persona  jurídica,2258
+2014,3,Sants-Montjuïc,15,Hostafrancs,Persona  jurídica,364
+2014,3,Sants-Montjuïc,16,la Bordeta,Persona  jurídica,5655
+2014,3,Sants-Montjuïc,17,Sants - Badal,Persona  jurídica,479
+2014,3,Sants-Montjuïc,18,Sants,Persona  jurídica,939
+2014,4,Les Corts,19,les Corts,Persona  jurídica,3901
+2014,4,Les Corts,20,la Maternitat i Sant Ramon,Persona  jurídica,952
+2014,4,Les Corts,21,Pedralbes,Persona  jurídica,3561
+2014,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Persona  jurídica,122
+2014,5,Sarrià-Sant Gervasi,23,Sarrià,Persona  jurídica,1196
+2014,5,Sarrià-Sant Gervasi,24,les Tres Torres,Persona  jurídica,2575
+2014,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Persona  jurídica,1419
+2014,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Persona  jurídica,6152
+2014,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Persona  jurídica,1388
+2014,6,Gràcia,28,Vallcarca i els Penitents,Persona  jurídica,396
+2014,6,Gràcia,29,el Coll,Persona  jurídica,99
+2014,6,Gràcia,30,la Salut,Persona  jurídica,296
+2014,6,Gràcia,31,la Vila de Gràcia,Persona  jurídica,1618
+2014,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Persona  jurídica,792
+2014,7,Horta-Guinardó,33,el Baix Guinardó,Persona  jurídica,489
+2014,7,Horta-Guinardó,34,Can Baró,Persona  jurídica,143
+2014,7,Horta-Guinardó,35,el Guinardó,Persona  jurídica,666
+2014,7,Horta-Guinardó,36,la Font d'en Fargues,Persona  jurídica,184
+2014,7,Horta-Guinardó,37,el Carmel,Persona  jurídica,196
+2014,7,Horta-Guinardó,38,la Teixonera,Persona  jurídica,146
+2014,7,Horta-Guinardó,39,Sant Genís dels Agudells,Persona  jurídica,361
+2014,7,Horta-Guinardó,40,Montbau,Persona  jurídica,45
+2014,7,Horta-Guinardó,41,la Vall d'Hebron,Persona  jurídica,148
+2014,7,Horta-Guinardó,42,la Clota,Persona  jurídica,23
+2014,7,Horta-Guinardó,43,Horta,Persona  jurídica,378
+2014,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Persona  jurídica,472
+2014,8,Nou Barris,45,Porta,Persona  jurídica,552
+2014,8,Nou Barris,46,el Turó de la Peira,Persona  jurídica,74
+2014,8,Nou Barris,47,Can Peguera,Persona  jurídica,10
+2014,8,Nou Barris,48,la Guineueta,Persona  jurídica,194
+2014,8,Nou Barris,49,Canyelles,Persona  jurídica,40
+2014,8,Nou Barris,50,les Roquetes,Persona  jurídica,123
+2014,8,Nou Barris,51,Verdun,Persona  jurídica,82
+2014,8,Nou Barris,52,la Prosperitat,Persona  jurídica,286
+2014,8,Nou Barris,53,la Trinitat Nova,Persona  jurídica,45
+2014,8,Nou Barris,54,Torre Baró,Persona  jurídica,15
+2014,8,Nou Barris,55,Ciutat Meridiana,Persona  jurídica,30
+2014,8,Nou Barris,56,Vallbona,Persona  jurídica,4
+2014,9,Sant Andreu,57,la Trinitat Vella,Persona  jurídica,88
+2014,9,Sant Andreu,58,Baró de Viver,Persona  jurídica,16
+2014,9,Sant Andreu,59,el Bon Pastor,Persona  jurídica,1343
+2014,9,Sant Andreu,60,Sant Andreu,Persona  jurídica,962
+2014,9,Sant Andreu,61,la Sagrera,Persona  jurídica,619
+2014,9,Sant Andreu,62,el Congrés i els Indians,Persona  jurídica,194
+2014,9,Sant Andreu,63,Navas,Persona  jurídica,655
+2014,10,Sant Martí,64,el Camp de l'Arpa del Clot,Persona  jurídica,684
+2014,10,Sant Martí,65,el Clot,Persona  jurídica,402
+2014,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Persona  jurídica,2149
+2014,10,Sant Martí,67,la Vila Olímpica del Poblenou,Persona  jurídica,586
+2014,10,Sant Martí,68,el Poblenou,Persona  jurídica,757
+2014,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Persona  jurídica,287
+2014,10,Sant Martí,70,el Besòs i el Maresme,Persona  jurídica,250
+2014,10,Sant Martí,71,Provençals del Poblenou,Persona  jurídica,685
+2014,10,Sant Martí,72,Sant Martí de Provençals,Persona  jurídica,724
+2014,10,Sant Martí,73,la Verneda i la Pau,Persona  jurídica,386
+2014,99,No consta,99,No consta,Persona  jurídica,187
+2014,1,Ciutat Vella,1,el Raval,Altres situacions,5
+2014,1,Ciutat Vella,2,el Barri Gòtic,Altres situacions,2
+2014,1,Ciutat Vella,3,la Barceloneta,Altres situacions,1
+2014,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Altres situacions,0
+2014,2,Eixample,5,el Fort Pienc,Altres situacions,3
+2014,2,Eixample,6,la Sagrada Família,Altres situacions,1
+2014,2,Eixample,7,la Dreta de l'Eixample,Altres situacions,5
+2014,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Altres situacions,6
+2014,2,Eixample,9,la Nova Esquerra de l'Eixample,Altres situacions,4
+2014,2,Eixample,10,Sant Antoni,Altres situacions,1
+2014,3,Sants-Montjuïc,11,el Poble Sec,Altres situacions,0
+2014,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Altres situacions,0
+2014,3,Sants-Montjuïc,13,la Marina de Port,Altres situacions,1
+2014,3,Sants-Montjuïc,14,la Font de la Guatlla,Altres situacions,0
+2014,3,Sants-Montjuïc,15,Hostafrancs,Altres situacions,0
+2014,3,Sants-Montjuïc,16,la Bordeta,Altres situacions,0
+2014,3,Sants-Montjuïc,17,Sants - Badal,Altres situacions,3
+2014,3,Sants-Montjuïc,18,Sants,Altres situacions,4
+2014,4,Les Corts,19,les Corts,Altres situacions,4
+2014,4,Les Corts,20,la Maternitat i Sant Ramon,Altres situacions,3
+2014,4,Les Corts,21,Pedralbes,Altres situacions,5
+2014,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Altres situacions,0
+2014,5,Sarrià-Sant Gervasi,23,Sarrià,Altres situacions,3
+2014,5,Sarrià-Sant Gervasi,24,les Tres Torres,Altres situacions,0
+2014,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Altres situacions,2
+2014,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Altres situacions,9
+2014,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Altres situacions,2
+2014,6,Gràcia,28,Vallcarca i els Penitents,Altres situacions,0
+2014,6,Gràcia,29,el Coll,Altres situacions,0
+2014,6,Gràcia,30,la Salut,Altres situacions,0
+2014,6,Gràcia,31,la Vila de Gràcia,Altres situacions,3
+2014,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Altres situacions,1
+2014,7,Horta-Guinardó,33,el Baix Guinardó,Altres situacions,2
+2014,7,Horta-Guinardó,34,Can Baró,Altres situacions,0
+2014,7,Horta-Guinardó,35,el Guinardó,Altres situacions,1
+2014,7,Horta-Guinardó,36,la Font d'en Fargues,Altres situacions,0
+2014,7,Horta-Guinardó,37,el Carmel,Altres situacions,1
+2014,7,Horta-Guinardó,38,la Teixonera,Altres situacions,0
+2014,7,Horta-Guinardó,39,Sant Genís dels Agudells,Altres situacions,1
+2014,7,Horta-Guinardó,40,Montbau,Altres situacions,0
+2014,7,Horta-Guinardó,41,la Vall d'Hebron,Altres situacions,1
+2014,7,Horta-Guinardó,42,la Clota,Altres situacions,0
+2014,7,Horta-Guinardó,43,Horta,Altres situacions,1
+2014,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Altres situacions,1
+2014,8,Nou Barris,45,Porta,Altres situacions,0
+2014,8,Nou Barris,46,el Turó de la Peira,Altres situacions,0
+2014,8,Nou Barris,47,Can Peguera,Altres situacions,0
+2014,8,Nou Barris,48,la Guineueta,Altres situacions,0
+2014,8,Nou Barris,49,Canyelles,Altres situacions,0
+2014,8,Nou Barris,50,les Roquetes,Altres situacions,0
+2014,8,Nou Barris,51,Verdun,Altres situacions,0
+2014,8,Nou Barris,52,la Prosperitat,Altres situacions,0
+2014,8,Nou Barris,53,la Trinitat Nova,Altres situacions,0
+2014,8,Nou Barris,54,Torre Baró,Altres situacions,0
+2014,8,Nou Barris,55,Ciutat Meridiana,Altres situacions,0
+2014,8,Nou Barris,56,Vallbona,Altres situacions,0
+2014,9,Sant Andreu,57,la Trinitat Vella,Altres situacions,0
+2014,9,Sant Andreu,58,Baró de Viver,Altres situacions,0
+2014,9,Sant Andreu,59,el Bon Pastor,Altres situacions,0
+2014,9,Sant Andreu,60,Sant Andreu,Altres situacions,2
+2014,9,Sant Andreu,61,la Sagrera,Altres situacions,1
+2014,9,Sant Andreu,62,el Congrés i els Indians,Altres situacions,0
+2014,9,Sant Andreu,63,Navas,Altres situacions,1
+2014,10,Sant Martí,64,el Camp de l'Arpa del Clot,Altres situacions,1
+2014,10,Sant Martí,65,el Clot,Altres situacions,1
+2014,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Altres situacions,0
+2014,10,Sant Martí,67,la Vila Olímpica del Poblenou,Altres situacions,0
+2014,10,Sant Martí,68,el Poblenou,Altres situacions,1
+2014,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Altres situacions,1
+2014,10,Sant Martí,70,el Besòs i el Maresme,Altres situacions,0
+2014,10,Sant Martí,71,Provençals del Poblenou,Altres situacions,1
+2014,10,Sant Martí,72,Sant Martí de Provençals,Altres situacions,2
+2014,10,Sant Martí,73,la Verneda i la Pau,Altres situacions,0
+2014,99,No consta,99,No consta,Altres situacions,2
