@@ -1,0 +1,667 @@
+Any,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Cilindrada_motos,Nombre_motos
+2013,1,Ciutat Vella,1,el Raval,Fins a 75 cc,119
+2013,1,Ciutat Vella,2,el Barri Gòtic,Fins a 75 cc,71
+2013,1,Ciutat Vella,3,la Barceloneta,Fins a 75 cc,56
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Fins a 75 cc,125
+2013,2,Eixample,5,el Fort Pienc,Fins a 75 cc,185
+2013,2,Eixample,6,la Sagrada Família,Fins a 75 cc,235
+2013,2,Eixample,7,la Dreta de l'Eixample,Fins a 75 cc,446
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Fins a 75 cc,367
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,Fins a 75 cc,411
+2013,2,Eixample,10,Sant Antoni,Fins a 75 cc,198
+2013,3,Sants-Montjuïc,11,el Poble Sec,Fins a 75 cc,149
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Fins a 75 cc,9
+2013,3,Sants-Montjuïc,13,la Marina de Port,Fins a 75 cc,92
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,Fins a 75 cc,46
+2013,3,Sants-Montjuïc,15,Hostafrancs,Fins a 75 cc,58
+2013,3,Sants-Montjuïc,16,la Bordeta,Fins a 75 cc,84
+2013,3,Sants-Montjuïc,17,Sants - Badal,Fins a 75 cc,106
+2013,3,Sants-Montjuïc,18,Sants,Fins a 75 cc,206
+2013,4,Les Corts,19,les Corts,Fins a 75 cc,438
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,Fins a 75 cc,207
+2013,4,Les Corts,21,Pedralbes,Fins a 75 cc,251
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Fins a 75 cc,37
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,Fins a 75 cc,390
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,Fins a 75 cc,367
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Fins a 75 cc,514
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Fins a 75 cc,1019
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Fins a 75 cc,419
+2013,6,Gràcia,28,Vallcarca i els Penitents,Fins a 75 cc,153
+2013,6,Gràcia,29,el Coll,Fins a 75 cc,47
+2013,6,Gràcia,30,la Salut,Fins a 75 cc,122
+2013,6,Gràcia,31,la Vila de Gràcia,Fins a 75 cc,370
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Fins a 75 cc,209
+2013,7,Horta-Guinardó,33,el Baix Guinardó,Fins a 75 cc,129
+2013,7,Horta-Guinardó,34,Can Baró,Fins a 75 cc,59
+2013,7,Horta-Guinardó,35,el Guinardó,Fins a 75 cc,177
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,Fins a 75 cc,79
+2013,7,Horta-Guinardó,37,el Carmel,Fins a 75 cc,122
+2013,7,Horta-Guinardó,38,la Teixonera,Fins a 75 cc,54
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,Fins a 75 cc,37
+2013,7,Horta-Guinardó,40,Montbau,Fins a 75 cc,15
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,Fins a 75 cc,20
+2013,7,Horta-Guinardó,42,la Clota,Fins a 75 cc,3
+2013,7,Horta-Guinardó,43,Horta,Fins a 75 cc,125
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Fins a 75 cc,86
+2013,8,Nou Barris,45,Porta,Fins a 75 cc,71
+2013,8,Nou Barris,46,el Turó de la Peira,Fins a 75 cc,43
+2013,8,Nou Barris,47,Can Peguera,Fins a 75 cc,9
+2013,8,Nou Barris,48,la Guineueta,Fins a 75 cc,43
+2013,8,Nou Barris,49,Canyelles,Fins a 75 cc,22
+2013,8,Nou Barris,50,les Roquetes,Fins a 75 cc,39
+2013,8,Nou Barris,51,Verdun,Fins a 75 cc,35
+2013,8,Nou Barris,52,la Prosperitat,Fins a 75 cc,77
+2013,8,Nou Barris,53,la Trinitat Nova,Fins a 75 cc,16
+2013,8,Nou Barris,54,Torre Baró,Fins a 75 cc,19
+2013,8,Nou Barris,55,Ciutat Meridiana,Fins a 75 cc,11
+2013,8,Nou Barris,56,Vallbona,Fins a 75 cc,4
+2013,9,Sant Andreu,57,la Trinitat Vella,Fins a 75 cc,17
+2013,9,Sant Andreu,58,Baró de Viver,Fins a 75 cc,7
+2013,9,Sant Andreu,59,el Bon Pastor,Fins a 75 cc,26
+2013,9,Sant Andreu,60,Sant Andreu,Fins a 75 cc,187
+2013,9,Sant Andreu,61,la Sagrera,Fins a 75 cc,106
+2013,9,Sant Andreu,62,el Congrés i els Indians,Fins a 75 cc,58
+2013,9,Sant Andreu,63,Navas,Fins a 75 cc,87
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,Fins a 75 cc,184
+2013,10,Sant Martí,65,el Clot,Fins a 75 cc,79
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Fins a 75 cc,72
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,Fins a 75 cc,33
+2013,10,Sant Martí,68,el Poblenou,Fins a 75 cc,89
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Fins a 75 cc,35
+2013,10,Sant Martí,70,el Besòs i el Maresme,Fins a 75 cc,34
+2013,10,Sant Martí,71,Provençals del Poblenou,Fins a 75 cc,61
+2013,10,Sant Martí,72,Sant Martí de Provençals,Fins a 75 cc,97
+2013,10,Sant Martí,73,la Verneda i la Pau,Fins a 75 cc,98
+2013,99,No consta,99,No consta,Fins a 75 cc,157
+2013,1,Ciutat Vella,1,el Raval,75 a 125 cc,1350
+2013,1,Ciutat Vella,2,el Barri Gòtic,75 a 125 cc,2539
+2013,1,Ciutat Vella,3,la Barceloneta,75 a 125 cc,2579
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",75 a 125 cc,1064
+2013,2,Eixample,5,el Fort Pienc,75 a 125 cc,1933
+2013,2,Eixample,6,la Sagrada Família,75 a 125 cc,3092
+2013,2,Eixample,7,la Dreta de l'Eixample,75 a 125 cc,3866
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,75 a 125 cc,3365
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,75 a 125 cc,3979
+2013,2,Eixample,10,Sant Antoni,75 a 125 cc,2130
+2013,3,Sants-Montjuïc,11,el Poble Sec,75 a 125 cc,1826
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,75 a 125 cc,182
+2013,3,Sants-Montjuïc,13,la Marina de Port,75 a 125 cc,1460
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,75 a 125 cc,587
+2013,3,Sants-Montjuïc,15,Hostafrancs,75 a 125 cc,771
+2013,3,Sants-Montjuïc,16,la Bordeta,75 a 125 cc,963
+2013,3,Sants-Montjuïc,17,Sants - Badal,75 a 125 cc,1174
+2013,3,Sants-Montjuïc,18,Sants,75 a 125 cc,2223
+2013,4,Les Corts,19,les Corts,75 a 125 cc,3515
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,75 a 125 cc,1852
+2013,4,Les Corts,21,Pedralbes,75 a 125 cc,1414
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",75 a 125 cc,299
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,75 a 125 cc,2731
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,75 a 125 cc,2125
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,75 a 125 cc,3103
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,75 a 125 cc,6230
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,75 a 125 cc,3078
+2013,6,Gràcia,28,Vallcarca i els Penitents,75 a 125 cc,1260
+2013,6,Gràcia,29,el Coll,75 a 125 cc,627
+2013,6,Gràcia,30,la Salut,75 a 125 cc,1194
+2013,6,Gràcia,31,la Vila de Gràcia,75 a 125 cc,3605
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,75 a 125 cc,2514
+2013,7,Horta-Guinardó,33,el Baix Guinardó,75 a 125 cc,1710
+2013,7,Horta-Guinardó,34,Can Baró,75 a 125 cc,732
+2013,7,Horta-Guinardó,35,el Guinardó,75 a 125 cc,2086
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,75 a 125 cc,899
+2013,7,Horta-Guinardó,37,el Carmel,75 a 125 cc,1964
+2013,7,Horta-Guinardó,38,la Teixonera,75 a 125 cc,676
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,75 a 125 cc,325
+2013,7,Horta-Guinardó,40,Montbau,75 a 125 cc,215
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,75 a 125 cc,300
+2013,7,Horta-Guinardó,42,la Clota,75 a 125 cc,21
+2013,7,Horta-Guinardó,43,Horta,75 a 125 cc,1483
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,75 a 125 cc,1213
+2013,8,Nou Barris,45,Porta,75 a 125 cc,933
+2013,8,Nou Barris,46,el Turó de la Peira,75 a 125 cc,533
+2013,8,Nou Barris,47,Can Peguera,75 a 125 cc,98
+2013,8,Nou Barris,48,la Guineueta,75 a 125 cc,608
+2013,8,Nou Barris,49,Canyelles,75 a 125 cc,290
+2013,8,Nou Barris,50,les Roquetes,75 a 125 cc,519
+2013,8,Nou Barris,51,Verdun,75 a 125 cc,407
+2013,8,Nou Barris,52,la Prosperitat,75 a 125 cc,1041
+2013,8,Nou Barris,53,la Trinitat Nova,75 a 125 cc,207
+2013,8,Nou Barris,54,Torre Baró,75 a 125 cc,76
+2013,8,Nou Barris,55,Ciutat Meridiana,75 a 125 cc,209
+2013,8,Nou Barris,56,Vallbona,75 a 125 cc,42
+2013,9,Sant Andreu,57,la Trinitat Vella,75 a 125 cc,309
+2013,9,Sant Andreu,58,Baró de Viver,75 a 125 cc,90
+2013,9,Sant Andreu,59,el Bon Pastor,75 a 125 cc,468
+2013,9,Sant Andreu,60,Sant Andreu,75 a 125 cc,2667
+2013,9,Sant Andreu,61,la Sagrera,75 a 125 cc,1313
+2013,9,Sant Andreu,62,el Congrés i els Indians,75 a 125 cc,642
+2013,9,Sant Andreu,63,Navas,75 a 125 cc,1075
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,75 a 125 cc,2058
+2013,10,Sant Martí,65,el Clot,75 a 125 cc,1347
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,75 a 125 cc,848
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,75 a 125 cc,646
+2013,10,Sant Martí,68,el Poblenou,75 a 125 cc,1483
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,75 a 125 cc,746
+2013,10,Sant Martí,70,el Besòs i el Maresme,75 a 125 cc,603
+2013,10,Sant Martí,71,Provençals del Poblenou,75 a 125 cc,929
+2013,10,Sant Martí,72,Sant Martí de Provençals,75 a 125 cc,1115
+2013,10,Sant Martí,73,la Verneda i la Pau,75 a 125 cc,1033
+2013,99,No consta,99,No consta,75 a 125 cc,1411
+2013,1,Ciutat Vella,1,el Raval,126 a 200,246
+2013,1,Ciutat Vella,2,el Barri Gòtic,126 a 200,271
+2013,1,Ciutat Vella,3,la Barceloneta,126 a 200,124
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",126 a 200,195
+2013,2,Eixample,5,el Fort Pienc,126 a 200,355
+2013,2,Eixample,6,la Sagrada Família,126 a 200,544
+2013,2,Eixample,7,la Dreta de l'Eixample,126 a 200,829
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,126 a 200,722
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,126 a 200,745
+2013,2,Eixample,10,Sant Antoni,126 a 200,400
+2013,3,Sants-Montjuïc,11,el Poble Sec,126 a 200,367
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,126 a 200,28
+2013,3,Sants-Montjuïc,13,la Marina de Port,126 a 200,200
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,126 a 200,95
+2013,3,Sants-Montjuïc,15,Hostafrancs,126 a 200,117
+2013,3,Sants-Montjuïc,16,la Bordeta,126 a 200,136
+2013,3,Sants-Montjuïc,17,Sants - Badal,126 a 200,181
+2013,3,Sants-Montjuïc,18,Sants,126 a 200,376
+2013,4,Les Corts,19,les Corts,126 a 200,714
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,126 a 200,368
+2013,4,Les Corts,21,Pedralbes,126 a 200,352
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",126 a 200,95
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,126 a 200,650
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,126 a 200,518
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,126 a 200,747
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,126 a 200,1426
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,126 a 200,657
+2013,6,Gràcia,28,Vallcarca i els Penitents,126 a 200,263
+2013,6,Gràcia,29,el Coll,126 a 200,106
+2013,6,Gràcia,30,la Salut,126 a 200,221
+2013,6,Gràcia,31,la Vila de Gràcia,126 a 200,689
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,126 a 200,492
+2013,7,Horta-Guinardó,33,el Baix Guinardó,126 a 200,311
+2013,7,Horta-Guinardó,34,Can Baró,126 a 200,116
+2013,7,Horta-Guinardó,35,el Guinardó,126 a 200,439
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,126 a 200,153
+2013,7,Horta-Guinardó,37,el Carmel,126 a 200,288
+2013,7,Horta-Guinardó,38,la Teixonera,126 a 200,119
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,126 a 200,59
+2013,7,Horta-Guinardó,40,Montbau,126 a 200,43
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,126 a 200,45
+2013,7,Horta-Guinardó,42,la Clota,126 a 200,1
+2013,7,Horta-Guinardó,43,Horta,126 a 200,285
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,126 a 200,181
+2013,8,Nou Barris,45,Porta,126 a 200,117
+2013,8,Nou Barris,46,el Turó de la Peira,126 a 200,61
+2013,8,Nou Barris,47,Can Peguera,126 a 200,13
+2013,8,Nou Barris,48,la Guineueta,126 a 200,83
+2013,8,Nou Barris,49,Canyelles,126 a 200,29
+2013,8,Nou Barris,50,les Roquetes,126 a 200,61
+2013,8,Nou Barris,51,Verdun,126 a 200,46
+2013,8,Nou Barris,52,la Prosperitat,126 a 200,109
+2013,8,Nou Barris,53,la Trinitat Nova,126 a 200,17
+2013,8,Nou Barris,54,Torre Baró,126 a 200,11
+2013,8,Nou Barris,55,Ciutat Meridiana,126 a 200,29
+2013,8,Nou Barris,56,Vallbona,126 a 200,7
+2013,9,Sant Andreu,57,la Trinitat Vella,126 a 200,31
+2013,9,Sant Andreu,58,Baró de Viver,126 a 200,8
+2013,9,Sant Andreu,59,el Bon Pastor,126 a 200,53
+2013,9,Sant Andreu,60,Sant Andreu,126 a 200,379
+2013,9,Sant Andreu,61,la Sagrera,126 a 200,228
+2013,9,Sant Andreu,62,el Congrés i els Indians,126 a 200,115
+2013,9,Sant Andreu,63,Navas,126 a 200,171
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,126 a 200,375
+2013,10,Sant Martí,65,el Clot,126 a 200,211
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,126 a 200,161
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,126 a 200,118
+2013,10,Sant Martí,68,el Poblenou,126 a 200,227
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,126 a 200,114
+2013,10,Sant Martí,70,el Besòs i el Maresme,126 a 200,76
+2013,10,Sant Martí,71,Provençals del Poblenou,126 a 200,118
+2013,10,Sant Martí,72,Sant Martí de Provençals,126 a 200,178
+2013,10,Sant Martí,73,la Verneda i la Pau,126 a 200,146
+2013,99,No consta,99,No consta,126 a 200,267
+2013,1,Ciutat Vella,1,el Raval,201 a 250 cc,233
+2013,1,Ciutat Vella,2,el Barri Gòtic,201 a 250 cc,486
+2013,1,Ciutat Vella,3,la Barceloneta,201 a 250 cc,88
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",201 a 250 cc,158
+2013,2,Eixample,5,el Fort Pienc,201 a 250 cc,336
+2013,2,Eixample,6,la Sagrada Família,201 a 250 cc,505
+2013,2,Eixample,7,la Dreta de l'Eixample,201 a 250 cc,665
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,201 a 250 cc,551
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,201 a 250 cc,707
+2013,2,Eixample,10,Sant Antoni,201 a 250 cc,418
+2013,3,Sants-Montjuïc,11,el Poble Sec,201 a 250 cc,310
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,201 a 250 cc,43
+2013,3,Sants-Montjuïc,13,la Marina de Port,201 a 250 cc,253
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,201 a 250 cc,122
+2013,3,Sants-Montjuïc,15,Hostafrancs,201 a 250 cc,123
+2013,3,Sants-Montjuïc,16,la Bordeta,201 a 250 cc,191
+2013,3,Sants-Montjuïc,17,Sants - Badal,201 a 250 cc,207
+2013,3,Sants-Montjuïc,18,Sants,201 a 250 cc,420
+2013,4,Les Corts,19,les Corts,201 a 250 cc,675
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,201 a 250 cc,309
+2013,4,Les Corts,21,Pedralbes,201 a 250 cc,253
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",201 a 250 cc,90
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,201 a 250 cc,454
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,201 a 250 cc,345
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,201 a 250 cc,470
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,201 a 250 cc,1057
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,201 a 250 cc,474
+2013,6,Gràcia,28,Vallcarca i els Penitents,201 a 250 cc,198
+2013,6,Gràcia,29,el Coll,201 a 250 cc,92
+2013,6,Gràcia,30,la Salut,201 a 250 cc,179
+2013,6,Gràcia,31,la Vila de Gràcia,201 a 250 cc,568
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,201 a 250 cc,435
+2013,7,Horta-Guinardó,33,el Baix Guinardó,201 a 250 cc,307
+2013,7,Horta-Guinardó,34,Can Baró,201 a 250 cc,121
+2013,7,Horta-Guinardó,35,el Guinardó,201 a 250 cc,384
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,201 a 250 cc,132
+2013,7,Horta-Guinardó,37,el Carmel,201 a 250 cc,293
+2013,7,Horta-Guinardó,38,la Teixonera,201 a 250 cc,122
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,201 a 250 cc,67
+2013,7,Horta-Guinardó,40,Montbau,201 a 250 cc,46
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,201 a 250 cc,50
+2013,7,Horta-Guinardó,42,la Clota,201 a 250 cc,4
+2013,7,Horta-Guinardó,43,Horta,201 a 250 cc,304
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,201 a 250 cc,226
+2013,8,Nou Barris,45,Porta,201 a 250 cc,154
+2013,8,Nou Barris,46,el Turó de la Peira,201 a 250 cc,93
+2013,8,Nou Barris,47,Can Peguera,201 a 250 cc,13
+2013,8,Nou Barris,48,la Guineueta,201 a 250 cc,142
+2013,8,Nou Barris,49,Canyelles,201 a 250 cc,45
+2013,8,Nou Barris,50,les Roquetes,201 a 250 cc,72
+2013,8,Nou Barris,51,Verdun,201 a 250 cc,73
+2013,8,Nou Barris,52,la Prosperitat,201 a 250 cc,178
+2013,8,Nou Barris,53,la Trinitat Nova,201 a 250 cc,38
+2013,8,Nou Barris,54,Torre Baró,201 a 250 cc,18
+2013,8,Nou Barris,55,Ciutat Meridiana,201 a 250 cc,34
+2013,8,Nou Barris,56,Vallbona,201 a 250 cc,9
+2013,9,Sant Andreu,57,la Trinitat Vella,201 a 250 cc,58
+2013,9,Sant Andreu,58,Baró de Viver,201 a 250 cc,13
+2013,9,Sant Andreu,59,el Bon Pastor,201 a 250 cc,87
+2013,9,Sant Andreu,60,Sant Andreu,201 a 250 cc,498
+2013,9,Sant Andreu,61,la Sagrera,201 a 250 cc,206
+2013,9,Sant Andreu,62,el Congrés i els Indians,201 a 250 cc,110
+2013,9,Sant Andreu,63,Navas,201 a 250 cc,208
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,201 a 250 cc,348
+2013,10,Sant Martí,65,el Clot,201 a 250 cc,235
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,201 a 250 cc,138
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,201 a 250 cc,131
+2013,10,Sant Martí,68,el Poblenou,201 a 250 cc,266
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,201 a 250 cc,137
+2013,10,Sant Martí,70,el Besòs i el Maresme,201 a 250 cc,98
+2013,10,Sant Martí,71,Provençals del Poblenou,201 a 250 cc,158
+2013,10,Sant Martí,72,Sant Martí de Provençals,201 a 250 cc,224
+2013,10,Sant Martí,73,la Verneda i la Pau,201 a 250 cc,217
+2013,99,No consta,99,No consta,201 a 250 cc,257
+2013,1,Ciutat Vella,1,el Raval,251 a 300 cc,78
+2013,1,Ciutat Vella,2,el Barri Gòtic,251 a 300 cc,68
+2013,1,Ciutat Vella,3,la Barceloneta,251 a 300 cc,46
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",251 a 300 cc,75
+2013,2,Eixample,5,el Fort Pienc,251 a 300 cc,105
+2013,2,Eixample,6,la Sagrada Família,251 a 300 cc,181
+2013,2,Eixample,7,la Dreta de l'Eixample,251 a 300 cc,297
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,251 a 300 cc,242
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,251 a 300 cc,279
+2013,2,Eixample,10,Sant Antoni,251 a 300 cc,123
+2013,3,Sants-Montjuïc,11,el Poble Sec,251 a 300 cc,107
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,251 a 300 cc,11
+2013,3,Sants-Montjuïc,13,la Marina de Port,251 a 300 cc,90
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,251 a 300 cc,36
+2013,3,Sants-Montjuïc,15,Hostafrancs,251 a 300 cc,48
+2013,3,Sants-Montjuïc,16,la Bordeta,251 a 300 cc,42
+2013,3,Sants-Montjuïc,17,Sants - Badal,251 a 300 cc,72
+2013,3,Sants-Montjuïc,18,Sants,251 a 300 cc,157
+2013,4,Les Corts,19,les Corts,251 a 300 cc,310
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,251 a 300 cc,153
+2013,4,Les Corts,21,Pedralbes,251 a 300 cc,162
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",251 a 300 cc,40
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,251 a 300 cc,306
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,251 a 300 cc,243
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,251 a 300 cc,282
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,251 a 300 cc,646
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,251 a 300 cc,246
+2013,6,Gràcia,28,Vallcarca i els Penitents,251 a 300 cc,112
+2013,6,Gràcia,29,el Coll,251 a 300 cc,50
+2013,6,Gràcia,30,la Salut,251 a 300 cc,80
+2013,6,Gràcia,31,la Vila de Gràcia,251 a 300 cc,221
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,251 a 300 cc,173
+2013,7,Horta-Guinardó,33,el Baix Guinardó,251 a 300 cc,95
+2013,7,Horta-Guinardó,34,Can Baró,251 a 300 cc,46
+2013,7,Horta-Guinardó,35,el Guinardó,251 a 300 cc,141
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,251 a 300 cc,78
+2013,7,Horta-Guinardó,37,el Carmel,251 a 300 cc,116
+2013,7,Horta-Guinardó,38,la Teixonera,251 a 300 cc,47
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,251 a 300 cc,28
+2013,7,Horta-Guinardó,40,Montbau,251 a 300 cc,15
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,251 a 300 cc,21
+2013,7,Horta-Guinardó,42,la Clota,251 a 300 cc,2
+2013,7,Horta-Guinardó,43,Horta,251 a 300 cc,130
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,251 a 300 cc,70
+2013,8,Nou Barris,45,Porta,251 a 300 cc,43
+2013,8,Nou Barris,46,el Turó de la Peira,251 a 300 cc,33
+2013,8,Nou Barris,47,Can Peguera,251 a 300 cc,5
+2013,8,Nou Barris,48,la Guineueta,251 a 300 cc,41
+2013,8,Nou Barris,49,Canyelles,251 a 300 cc,15
+2013,8,Nou Barris,50,les Roquetes,251 a 300 cc,24
+2013,8,Nou Barris,51,Verdun,251 a 300 cc,19
+2013,8,Nou Barris,52,la Prosperitat,251 a 300 cc,57
+2013,8,Nou Barris,53,la Trinitat Nova,251 a 300 cc,13
+2013,8,Nou Barris,54,Torre Baró,251 a 300 cc,6
+2013,8,Nou Barris,55,Ciutat Meridiana,251 a 300 cc,12
+2013,8,Nou Barris,56,Vallbona,251 a 300 cc,2
+2013,9,Sant Andreu,57,la Trinitat Vella,251 a 300 cc,22
+2013,9,Sant Andreu,58,Baró de Viver,251 a 300 cc,4
+2013,9,Sant Andreu,59,el Bon Pastor,251 a 300 cc,20
+2013,9,Sant Andreu,60,Sant Andreu,251 a 300 cc,173
+2013,9,Sant Andreu,61,la Sagrera,251 a 300 cc,76
+2013,9,Sant Andreu,62,el Congrés i els Indians,251 a 300 cc,43
+2013,9,Sant Andreu,63,Navas,251 a 300 cc,93
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,251 a 300 cc,132
+2013,10,Sant Martí,65,el Clot,251 a 300 cc,69
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,251 a 300 cc,48
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,251 a 300 cc,43
+2013,10,Sant Martí,68,el Poblenou,251 a 300 cc,84
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,251 a 300 cc,64
+2013,10,Sant Martí,70,el Besòs i el Maresme,251 a 300 cc,38
+2013,10,Sant Martí,71,Provençals del Poblenou,251 a 300 cc,64
+2013,10,Sant Martí,72,Sant Martí de Provençals,251 a 300 cc,74
+2013,10,Sant Martí,73,la Verneda i la Pau,251 a 300 cc,60
+2013,99,No consta,99,No consta,251 a 300 cc,104
+2013,1,Ciutat Vella,1,el Raval,301 a 500 cc,135
+2013,1,Ciutat Vella,2,el Barri Gòtic,301 a 500 cc,140
+2013,1,Ciutat Vella,3,la Barceloneta,301 a 500 cc,72
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",301 a 500 cc,108
+2013,2,Eixample,5,el Fort Pienc,301 a 500 cc,206
+2013,2,Eixample,6,la Sagrada Família,301 a 500 cc,316
+2013,2,Eixample,7,la Dreta de l'Eixample,301 a 500 cc,428
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,301 a 500 cc,348
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,301 a 500 cc,404
+2013,2,Eixample,10,Sant Antoni,301 a 500 cc,227
+2013,3,Sants-Montjuïc,11,el Poble Sec,301 a 500 cc,199
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,301 a 500 cc,13
+2013,3,Sants-Montjuïc,13,la Marina de Port,301 a 500 cc,144
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,301 a 500 cc,61
+2013,3,Sants-Montjuïc,15,Hostafrancs,301 a 500 cc,82
+2013,3,Sants-Montjuïc,16,la Bordeta,301 a 500 cc,107
+2013,3,Sants-Montjuïc,17,Sants - Badal,301 a 500 cc,136
+2013,3,Sants-Montjuïc,18,Sants,301 a 500 cc,236
+2013,4,Les Corts,19,les Corts,301 a 500 cc,428
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,301 a 500 cc,177
+2013,4,Les Corts,21,Pedralbes,301 a 500 cc,150
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",301 a 500 cc,37
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,301 a 500 cc,243
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,301 a 500 cc,199
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,301 a 500 cc,306
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,301 a 500 cc,594
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,301 a 500 cc,315
+2013,6,Gràcia,28,Vallcarca i els Penitents,301 a 500 cc,127
+2013,6,Gràcia,29,el Coll,301 a 500 cc,58
+2013,6,Gràcia,30,la Salut,301 a 500 cc,98
+2013,6,Gràcia,31,la Vila de Gràcia,301 a 500 cc,330
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,301 a 500 cc,226
+2013,7,Horta-Guinardó,33,el Baix Guinardó,301 a 500 cc,167
+2013,7,Horta-Guinardó,34,Can Baró,301 a 500 cc,58
+2013,7,Horta-Guinardó,35,el Guinardó,301 a 500 cc,213
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,301 a 500 cc,72
+2013,7,Horta-Guinardó,37,el Carmel,301 a 500 cc,189
+2013,7,Horta-Guinardó,38,la Teixonera,301 a 500 cc,67
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,301 a 500 cc,49
+2013,7,Horta-Guinardó,40,Montbau,301 a 500 cc,30
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,301 a 500 cc,30
+2013,7,Horta-Guinardó,42,la Clota,301 a 500 cc,3
+2013,7,Horta-Guinardó,43,Horta,301 a 500 cc,171
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,301 a 500 cc,127
+2013,8,Nou Barris,45,Porta,301 a 500 cc,105
+2013,8,Nou Barris,46,el Turó de la Peira,301 a 500 cc,57
+2013,8,Nou Barris,47,Can Peguera,301 a 500 cc,8
+2013,8,Nou Barris,48,la Guineueta,301 a 500 cc,81
+2013,8,Nou Barris,49,Canyelles,301 a 500 cc,40
+2013,8,Nou Barris,50,les Roquetes,301 a 500 cc,71
+2013,8,Nou Barris,51,Verdun,301 a 500 cc,47
+2013,8,Nou Barris,52,la Prosperitat,301 a 500 cc,103
+2013,8,Nou Barris,53,la Trinitat Nova,301 a 500 cc,21
+2013,8,Nou Barris,54,Torre Baró,301 a 500 cc,7
+2013,8,Nou Barris,55,Ciutat Meridiana,301 a 500 cc,15
+2013,8,Nou Barris,56,Vallbona,301 a 500 cc,7
+2013,9,Sant Andreu,57,la Trinitat Vella,301 a 500 cc,30
+2013,9,Sant Andreu,58,Baró de Viver,301 a 500 cc,10
+2013,9,Sant Andreu,59,el Bon Pastor,301 a 500 cc,62
+2013,9,Sant Andreu,60,Sant Andreu,301 a 500 cc,315
+2013,9,Sant Andreu,61,la Sagrera,301 a 500 cc,134
+2013,9,Sant Andreu,62,el Congrés i els Indians,301 a 500 cc,44
+2013,9,Sant Andreu,63,Navas,301 a 500 cc,137
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,301 a 500 cc,190
+2013,10,Sant Martí,65,el Clot,301 a 500 cc,142
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,301 a 500 cc,99
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,301 a 500 cc,50
+2013,10,Sant Martí,68,el Poblenou,301 a 500 cc,153
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,301 a 500 cc,62
+2013,10,Sant Martí,70,el Besòs i el Maresme,301 a 500 cc,49
+2013,10,Sant Martí,71,Provençals del Poblenou,301 a 500 cc,96
+2013,10,Sant Martí,72,Sant Martí de Provençals,301 a 500 cc,136
+2013,10,Sant Martí,73,la Verneda i la Pau,301 a 500 cc,100
+2013,99,No consta,99,No consta,301 a 500 cc,189
+2013,1,Ciutat Vella,1,el Raval,501 a 750 cc,286
+2013,1,Ciutat Vella,2,el Barri Gòtic,501 a 750 cc,376
+2013,1,Ciutat Vella,3,la Barceloneta,501 a 750 cc,117
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",501 a 750 cc,240
+2013,2,Eixample,5,el Fort Pienc,501 a 750 cc,387
+2013,2,Eixample,6,la Sagrada Família,501 a 750 cc,654
+2013,2,Eixample,7,la Dreta de l'Eixample,501 a 750 cc,711
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,501 a 750 cc,704
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,501 a 750 cc,801
+2013,2,Eixample,10,Sant Antoni,501 a 750 cc,415
+2013,3,Sants-Montjuïc,11,el Poble Sec,501 a 750 cc,408
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,501 a 750 cc,27
+2013,3,Sants-Montjuïc,13,la Marina de Port,501 a 750 cc,368
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,501 a 750 cc,169
+2013,3,Sants-Montjuïc,15,Hostafrancs,501 a 750 cc,215
+2013,3,Sants-Montjuïc,16,la Bordeta,501 a 750 cc,246
+2013,3,Sants-Montjuïc,17,Sants - Badal,501 a 750 cc,314
+2013,3,Sants-Montjuïc,18,Sants,501 a 750 cc,536
+2013,4,Les Corts,19,les Corts,501 a 750 cc,623
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,501 a 750 cc,411
+2013,4,Les Corts,21,Pedralbes,501 a 750 cc,213
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",501 a 750 cc,81
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,501 a 750 cc,376
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,501 a 750 cc,285
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,501 a 750 cc,410
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,501 a 750 cc,952
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,501 a 750 cc,518
+2013,6,Gràcia,28,Vallcarca i els Penitents,501 a 750 cc,250
+2013,6,Gràcia,29,el Coll,501 a 750 cc,111
+2013,6,Gràcia,30,la Salut,501 a 750 cc,226
+2013,6,Gràcia,31,la Vila de Gràcia,501 a 750 cc,684
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,501 a 750 cc,543
+2013,7,Horta-Guinardó,33,el Baix Guinardó,501 a 750 cc,364
+2013,7,Horta-Guinardó,34,Can Baró,501 a 750 cc,118
+2013,7,Horta-Guinardó,35,el Guinardó,501 a 750 cc,526
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,501 a 750 cc,199
+2013,7,Horta-Guinardó,37,el Carmel,501 a 750 cc,454
+2013,7,Horta-Guinardó,38,la Teixonera,501 a 750 cc,162
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,501 a 750 cc,129
+2013,7,Horta-Guinardó,40,Montbau,501 a 750 cc,72
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,501 a 750 cc,68
+2013,7,Horta-Guinardó,42,la Clota,501 a 750 cc,6
+2013,7,Horta-Guinardó,43,Horta,501 a 750 cc,388
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,501 a 750 cc,307
+2013,8,Nou Barris,45,Porta,501 a 750 cc,261
+2013,8,Nou Barris,46,el Turó de la Peira,501 a 750 cc,152
+2013,8,Nou Barris,47,Can Peguera,501 a 750 cc,30
+2013,8,Nou Barris,48,la Guineueta,501 a 750 cc,182
+2013,8,Nou Barris,49,Canyelles,501 a 750 cc,82
+2013,8,Nou Barris,50,les Roquetes,501 a 750 cc,173
+2013,8,Nou Barris,51,Verdun,501 a 750 cc,121
+2013,8,Nou Barris,52,la Prosperitat,501 a 750 cc,295
+2013,8,Nou Barris,53,la Trinitat Nova,501 a 750 cc,48
+2013,8,Nou Barris,54,Torre Baró,501 a 750 cc,16
+2013,8,Nou Barris,55,Ciutat Meridiana,501 a 750 cc,67
+2013,8,Nou Barris,56,Vallbona,501 a 750 cc,19
+2013,9,Sant Andreu,57,la Trinitat Vella,501 a 750 cc,79
+2013,9,Sant Andreu,58,Baró de Viver,501 a 750 cc,23
+2013,9,Sant Andreu,59,el Bon Pastor,501 a 750 cc,140
+2013,9,Sant Andreu,60,Sant Andreu,501 a 750 cc,759
+2013,9,Sant Andreu,61,la Sagrera,501 a 750 cc,353
+2013,9,Sant Andreu,62,el Congrés i els Indians,501 a 750 cc,167
+2013,9,Sant Andreu,63,Navas,501 a 750 cc,301
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,501 a 750 cc,482
+2013,10,Sant Martí,65,el Clot,501 a 750 cc,361
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,501 a 750 cc,189
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,501 a 750 cc,130
+2013,10,Sant Martí,68,el Poblenou,501 a 750 cc,352
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,501 a 750 cc,142
+2013,10,Sant Martí,70,el Besòs i el Maresme,501 a 750 cc,152
+2013,10,Sant Martí,71,Provençals del Poblenou,501 a 750 cc,224
+2013,10,Sant Martí,72,Sant Martí de Provençals,501 a 750 cc,331
+2013,10,Sant Martí,73,la Verneda i la Pau,501 a 750 cc,296
+2013,99,No consta,99,No consta,501 a 750 cc,313
+2013,1,Ciutat Vella,1,el Raval,Més de 750 cc,154
+2013,1,Ciutat Vella,2,el Barri Gòtic,Més de 750 cc,411
+2013,1,Ciutat Vella,3,la Barceloneta,Més de 750 cc,89
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Més de 750 cc,149
+2013,2,Eixample,5,el Fort Pienc,Més de 750 cc,227
+2013,2,Eixample,6,la Sagrada Família,Més de 750 cc,379
+2013,2,Eixample,7,la Dreta de l'Eixample,Més de 750 cc,515
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Més de 750 cc,525
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,Més de 750 cc,494
+2013,2,Eixample,10,Sant Antoni,Més de 750 cc,301
+2013,3,Sants-Montjuïc,11,el Poble Sec,Més de 750 cc,218
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Més de 750 cc,26
+2013,3,Sants-Montjuïc,13,la Marina de Port,Més de 750 cc,180
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,Més de 750 cc,94
+2013,3,Sants-Montjuïc,15,Hostafrancs,Més de 750 cc,83
+2013,3,Sants-Montjuïc,16,la Bordeta,Més de 750 cc,100
+2013,3,Sants-Montjuïc,17,Sants - Badal,Més de 750 cc,142
+2013,3,Sants-Montjuïc,18,Sants,Més de 750 cc,316
+2013,4,Les Corts,19,les Corts,Més de 750 cc,468
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,Més de 750 cc,241
+2013,4,Les Corts,21,Pedralbes,Més de 750 cc,179
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Més de 750 cc,74
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,Més de 750 cc,299
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,Més de 750 cc,232
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Més de 750 cc,346
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Més de 750 cc,725
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Més de 750 cc,307
+2013,6,Gràcia,28,Vallcarca i els Penitents,Més de 750 cc,161
+2013,6,Gràcia,29,el Coll,Més de 750 cc,81
+2013,6,Gràcia,30,la Salut,Més de 750 cc,115
+2013,6,Gràcia,31,la Vila de Gràcia,Més de 750 cc,405
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Més de 750 cc,266
+2013,7,Horta-Guinardó,33,el Baix Guinardó,Més de 750 cc,184
+2013,7,Horta-Guinardó,34,Can Baró,Més de 750 cc,69
+2013,7,Horta-Guinardó,35,el Guinardó,Més de 750 cc,270
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,Més de 750 cc,113
+2013,7,Horta-Guinardó,37,el Carmel,Més de 750 cc,172
+2013,7,Horta-Guinardó,38,la Teixonera,Més de 750 cc,89
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,Més de 750 cc,46
+2013,7,Horta-Guinardó,40,Montbau,Més de 750 cc,31
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,Més de 750 cc,32
+2013,7,Horta-Guinardó,42,la Clota,Més de 750 cc,9
+2013,7,Horta-Guinardó,43,Horta,Més de 750 cc,192
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Més de 750 cc,147
+2013,8,Nou Barris,45,Porta,Més de 750 cc,122
+2013,8,Nou Barris,46,el Turó de la Peira,Més de 750 cc,44
+2013,8,Nou Barris,47,Can Peguera,Més de 750 cc,6
+2013,8,Nou Barris,48,la Guineueta,Més de 750 cc,77
+2013,8,Nou Barris,49,Canyelles,Més de 750 cc,45
+2013,8,Nou Barris,50,les Roquetes,Més de 750 cc,66
+2013,8,Nou Barris,51,Verdun,Més de 750 cc,44
+2013,8,Nou Barris,52,la Prosperitat,Més de 750 cc,126
+2013,8,Nou Barris,53,la Trinitat Nova,Més de 750 cc,19
+2013,8,Nou Barris,54,Torre Baró,Més de 750 cc,6
+2013,8,Nou Barris,55,Ciutat Meridiana,Més de 750 cc,18
+2013,8,Nou Barris,56,Vallbona,Més de 750 cc,6
+2013,9,Sant Andreu,57,la Trinitat Vella,Més de 750 cc,34
+2013,9,Sant Andreu,58,Baró de Viver,Més de 750 cc,5
+2013,9,Sant Andreu,59,el Bon Pastor,Més de 750 cc,50
+2013,9,Sant Andreu,60,Sant Andreu,Més de 750 cc,370
+2013,9,Sant Andreu,61,la Sagrera,Més de 750 cc,163
+2013,9,Sant Andreu,62,el Congrés i els Indians,Més de 750 cc,101
+2013,9,Sant Andreu,63,Navas,Més de 750 cc,143
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,Més de 750 cc,260
+2013,10,Sant Martí,65,el Clot,Més de 750 cc,179
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Més de 750 cc,137
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,Més de 750 cc,94
+2013,10,Sant Martí,68,el Poblenou,Més de 750 cc,258
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Més de 750 cc,123
+2013,10,Sant Martí,70,el Besòs i el Maresme,Més de 750 cc,66
+2013,10,Sant Martí,71,Provençals del Poblenou,Més de 750 cc,127
+2013,10,Sant Martí,72,Sant Martí de Provençals,Més de 750 cc,151
+2013,10,Sant Martí,73,la Verneda i la Pau,Més de 750 cc,148
+2013,99,No consta,99,No consta,Més de 750 cc,180
+2013,1,Ciutat Vella,1,el Raval,No consta,1
+2013,1,Ciutat Vella,2,el Barri Gòtic,No consta,1
+2013,1,Ciutat Vella,3,la Barceloneta,No consta,352
+2013,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",No consta,1
+2013,2,Eixample,5,el Fort Pienc,No consta,0
+2013,2,Eixample,6,la Sagrada Família,No consta,0
+2013,2,Eixample,7,la Dreta de l'Eixample,No consta,1
+2013,2,Eixample,8,l'Antiga Esquerra de l'Eixample,No consta,2
+2013,2,Eixample,9,la Nova Esquerra de l'Eixample,No consta,1
+2013,2,Eixample,10,Sant Antoni,No consta,0
+2013,3,Sants-Montjuïc,11,el Poble Sec,No consta,0
+2013,3,Sants-Montjuïc,12,la Marina del Prat Vermell,No consta,0
+2013,3,Sants-Montjuïc,13,la Marina de Port,No consta,0
+2013,3,Sants-Montjuïc,14,la Font de la Guatlla,No consta,0
+2013,3,Sants-Montjuïc,15,Hostafrancs,No consta,0
+2013,3,Sants-Montjuïc,16,la Bordeta,No consta,0
+2013,3,Sants-Montjuïc,17,Sants - Badal,No consta,0
+2013,3,Sants-Montjuïc,18,Sants,No consta,0
+2013,4,Les Corts,19,les Corts,No consta,1
+2013,4,Les Corts,20,la Maternitat i Sant Ramon,No consta,3
+2013,4,Les Corts,21,Pedralbes,No consta,1
+2013,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",No consta,0
+2013,5,Sarrià-Sant Gervasi,23,Sarrià,No consta,1
+2013,5,Sarrià-Sant Gervasi,24,les Tres Torres,No consta,0
+2013,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,No consta,1
+2013,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,No consta,1
+2013,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,No consta,0
+2013,6,Gràcia,28,Vallcarca i els Penitents,No consta,0
+2013,6,Gràcia,29,el Coll,No consta,0
+2013,6,Gràcia,30,la Salut,No consta,0
+2013,6,Gràcia,31,la Vila de Gràcia,No consta,2
+2013,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,No consta,0
+2013,7,Horta-Guinardó,33,el Baix Guinardó,No consta,0
+2013,7,Horta-Guinardó,34,Can Baró,No consta,0
+2013,7,Horta-Guinardó,35,el Guinardó,No consta,0
+2013,7,Horta-Guinardó,36,la Font d'en Fargues,No consta,0
+2013,7,Horta-Guinardó,37,el Carmel,No consta,0
+2013,7,Horta-Guinardó,38,la Teixonera,No consta,0
+2013,7,Horta-Guinardó,39,Sant Genís dels Agudells,No consta,0
+2013,7,Horta-Guinardó,40,Montbau,No consta,0
+2013,7,Horta-Guinardó,41,la Vall d'Hebron,No consta,0
+2013,7,Horta-Guinardó,42,la Clota,No consta,0
+2013,7,Horta-Guinardó,43,Horta,No consta,0
+2013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,No consta,1
+2013,8,Nou Barris,45,Porta,No consta,0
+2013,8,Nou Barris,46,el Turó de la Peira,No consta,0
+2013,8,Nou Barris,47,Can Peguera,No consta,0
+2013,8,Nou Barris,48,la Guineueta,No consta,0
+2013,8,Nou Barris,49,Canyelles,No consta,0
+2013,8,Nou Barris,50,les Roquetes,No consta,0
+2013,8,Nou Barris,51,Verdun,No consta,0
+2013,8,Nou Barris,52,la Prosperitat,No consta,1
+2013,8,Nou Barris,53,la Trinitat Nova,No consta,0
+2013,8,Nou Barris,54,Torre Baró,No consta,1
+2013,8,Nou Barris,55,Ciutat Meridiana,No consta,0
+2013,8,Nou Barris,56,Vallbona,No consta,0
+2013,9,Sant Andreu,57,la Trinitat Vella,No consta,0
+2013,9,Sant Andreu,58,Baró de Viver,No consta,0
+2013,9,Sant Andreu,59,el Bon Pastor,No consta,0
+2013,9,Sant Andreu,60,Sant Andreu,No consta,0
+2013,9,Sant Andreu,61,la Sagrera,No consta,0
+2013,9,Sant Andreu,62,el Congrés i els Indians,No consta,0
+2013,9,Sant Andreu,63,Navas,No consta,0
+2013,10,Sant Martí,64,el Camp de l'Arpa del Clot,No consta,0
+2013,10,Sant Martí,65,el Clot,No consta,0
+2013,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,No consta,1
+2013,10,Sant Martí,67,la Vila Olímpica del Poblenou,No consta,1
+2013,10,Sant Martí,68,el Poblenou,No consta,1
+2013,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,No consta,0
+2013,10,Sant Martí,70,el Besòs i el Maresme,No consta,0
+2013,10,Sant Martí,71,Provençals del Poblenou,No consta,2
+2013,10,Sant Martí,72,Sant Martí de Provençals,No consta,0
+2013,10,Sant Martí,73,la Verneda i la Pau,No consta,0
+2013,99,No consta,99,No consta,No consta,0

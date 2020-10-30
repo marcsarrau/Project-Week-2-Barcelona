@@ -1,0 +1,445 @@
+Any,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Tipologia_parc,Nombre_vehicles
+2015,1,Ciutat Vella,1,el Raval,Turismes,6374
+2015,1,Ciutat Vella,2,el Barri Gòtic,Turismes,6350
+2015,1,Ciutat Vella,3,la Barceloneta,Turismes,3656
+2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Turismes,4488
+2015,2,Eixample,5,el Fort Pienc,Turismes,10905
+2015,2,Eixample,6,la Sagrada Família,Turismes,15981
+2015,2,Eixample,7,la Dreta de l'Eixample,Turismes,19937
+2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Turismes,15601
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Turismes,21701
+2015,2,Eixample,10,Sant Antoni,Turismes,11582
+2015,3,Sants-Montjuïc,11,el Poble Sec,Turismes,9583
+2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Turismes,3778
+2015,3,Sants-Montjuïc,13,la Marina de Port,Turismes,10771
+2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Turismes,5332
+2015,3,Sants-Montjuïc,15,Hostafrancs,Turismes,4818
+2015,3,Sants-Montjuïc,16,la Bordeta,Turismes,11348
+2015,3,Sants-Montjuïc,17,Sants - Badal,Turismes,7691
+2015,3,Sants-Montjuïc,18,Sants,Turismes,12463
+2015,4,Les Corts,19,les Corts,Turismes,21129
+2015,4,Les Corts,20,la Maternitat i Sant Ramon,Turismes,9980
+2015,4,Les Corts,21,Pedralbes,Turismes,9798
+2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Turismes,1951
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Turismes,10770
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Turismes,10053
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Turismes,11660
+2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Turismes,25529
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Turismes,11627
+2015,6,Gràcia,28,Vallcarca i els Penitents,Turismes,5863
+2015,6,Gràcia,29,el Coll,Turismes,2286
+2015,6,Gràcia,30,la Salut,Turismes,4900
+2015,6,Gràcia,31,la Vila de Gràcia,Turismes,13731
+2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Turismes,11631
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Turismes,8281
+2015,7,Horta-Guinardó,34,Can Baró,Turismes,3024
+2015,7,Horta-Guinardó,35,el Guinardó,Turismes,11878
+2015,7,Horta-Guinardó,36,la Font d'en Fargues,Turismes,4033
+2015,7,Horta-Guinardó,37,el Carmel,Turismes,9663
+2015,7,Horta-Guinardó,38,la Teixonera,Turismes,3850
+2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Turismes,2862
+2015,7,Horta-Guinardó,40,Montbau,Turismes,1741
+2015,7,Horta-Guinardó,41,la Vall d'Hebron,Turismes,2173
+2015,7,Horta-Guinardó,42,la Clota,Turismes,154
+2015,7,Horta-Guinardó,43,Horta,Turismes,9186
+2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Turismes,8084
+2015,8,Nou Barris,45,Porta,Turismes,7758
+2015,8,Nou Barris,46,el Turó de la Peira,Turismes,3662
+2015,8,Nou Barris,47,Can Peguera,Turismes,634
+2015,8,Nou Barris,48,la Guineueta,Turismes,5264
+2015,8,Nou Barris,49,Canyelles,Turismes,2932
+2015,8,Nou Barris,50,les Roquetes,Turismes,4714
+2015,8,Nou Barris,51,Verdun,Turismes,3585
+2015,8,Nou Barris,52,la Prosperitat,Turismes,8501
+2015,8,Nou Barris,53,la Trinitat Nova,Turismes,1950
+2015,8,Nou Barris,54,Torre Baró,Turismes,858
+2015,8,Nou Barris,55,Ciutat Meridiana,Turismes,2947
+2015,8,Nou Barris,56,Vallbona,Turismes,426
+2015,9,Sant Andreu,57,la Trinitat Vella,Turismes,2858
+2015,9,Sant Andreu,58,Baró de Viver,Turismes,658
+2015,9,Sant Andreu,59,el Bon Pastor,Turismes,5149
+2015,9,Sant Andreu,60,Sant Andreu,Turismes,19781
+2015,9,Sant Andreu,61,la Sagrera,Turismes,9611
+2015,9,Sant Andreu,62,el Congrés i els Indians,Turismes,4080
+2015,9,Sant Andreu,63,Navas,Turismes,7493
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Turismes,11994
+2015,10,Sant Martí,65,el Clot,Turismes,8718
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Turismes,6692
+2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Turismes,3985
+2015,10,Sant Martí,68,el Poblenou,Turismes,10356
+2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Turismes,4175
+2015,10,Sant Martí,70,el Besòs i el Maresme,Turismes,6321
+2015,10,Sant Martí,71,Provençals del Poblenou,Turismes,7205
+2015,10,Sant Martí,72,Sant Martí de Provençals,Turismes,8906
+2015,10,Sant Martí,73,la Verneda i la Pau,Turismes,10085
+2015,99,No consta,99,No consta,Turismes,851
+2015,1,Ciutat Vella,1,el Raval,Motos,2822
+2015,1,Ciutat Vella,2,el Barri Gòtic,Motos,4287
+2015,1,Ciutat Vella,3,la Barceloneta,Motos,1952
+2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Motos,2332
+2015,2,Eixample,5,el Fort Pienc,Motos,3948
+2015,2,Eixample,6,la Sagrada Família,Motos,6349
+2015,2,Eixample,7,la Dreta de l'Eixample,Motos,8470
+2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Motos,7317
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Motos,8374
+2015,2,Eixample,10,Sant Antoni,Motos,4597
+2015,3,Sants-Montjuïc,11,el Poble Sec,Motos,3832
+2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Motos,363
+2015,3,Sants-Montjuïc,13,la Marina de Port,Motos,3149
+2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Motos,1346
+2015,3,Sants-Montjuïc,15,Hostafrancs,Motos,1667
+2015,3,Sants-Montjuïc,16,la Bordeta,Motos,2102
+2015,3,Sants-Montjuïc,17,Sants - Badal,Motos,2555
+2015,3,Sants-Montjuïc,18,Sants,Motos,4844
+2015,4,Les Corts,19,les Corts,Motos,7621
+2015,4,Les Corts,20,la Maternitat i Sant Ramon,Motos,3900
+2015,4,Les Corts,21,Pedralbes,Motos,3101
+2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Motos,875
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Motos,5844
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Motos,4529
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Motos,6488
+2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Motos,13288
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Motos,6456
+2015,6,Gràcia,28,Vallcarca i els Penitents,Motos,2774
+2015,6,Gràcia,29,el Coll,Motos,1236
+2015,6,Gràcia,30,la Salut,Motos,2280
+2015,6,Gràcia,31,la Vila de Gràcia,Motos,7248
+2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Motos,5219
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Motos,3509
+2015,7,Horta-Guinardó,34,Can Baró,Motos,1467
+2015,7,Horta-Guinardó,35,el Guinardó,Motos,4592
+2015,7,Horta-Guinardó,36,la Font d'en Fargues,Motos,1832
+2015,7,Horta-Guinardó,37,el Carmel,Motos,3949
+2015,7,Horta-Guinardó,38,la Teixonera,Motos,1488
+2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Motos,802
+2015,7,Horta-Guinardó,40,Montbau,Motos,498
+2015,7,Horta-Guinardó,41,la Vall d'Hebron,Motos,600
+2015,7,Horta-Guinardó,42,la Clota,Motos,70
+2015,7,Horta-Guinardó,43,Horta,Motos,3378
+2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Motos,2525
+2015,8,Nou Barris,45,Porta,Motos,2057
+2015,8,Nou Barris,46,el Turó de la Peira,Motos,1122
+2015,8,Nou Barris,47,Can Peguera,Motos,196
+2015,8,Nou Barris,48,la Guineueta,Motos,1353
+2015,8,Nou Barris,49,Canyelles,Motos,641
+2015,8,Nou Barris,50,les Roquetes,Motos,1149
+2015,8,Nou Barris,51,Verdun,Motos,889
+2015,8,Nou Barris,52,la Prosperitat,Motos,2226
+2015,8,Nou Barris,53,la Trinitat Nova,Motos,428
+2015,8,Nou Barris,54,Torre Baró,Motos,208
+2015,8,Nou Barris,55,Ciutat Meridiana,Motos,460
+2015,8,Nou Barris,56,Vallbona,Motos,102
+2015,9,Sant Andreu,57,la Trinitat Vella,Motos,622
+2015,9,Sant Andreu,58,Baró de Viver,Motos,178
+2015,9,Sant Andreu,59,el Bon Pastor,Motos,1016
+2015,9,Sant Andreu,60,Sant Andreu,Motos,5894
+2015,9,Sant Andreu,61,la Sagrera,Motos,2803
+2015,9,Sant Andreu,62,el Congrés i els Indians,Motos,1388
+2015,9,Sant Andreu,63,Navas,Motos,2390
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Motos,4300
+2015,10,Sant Martí,65,el Clot,Motos,2862
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Motos,1832
+2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Motos,1361
+2015,10,Sant Martí,68,el Poblenou,Motos,3543
+2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Motos,1465
+2015,10,Sant Martí,70,el Besòs i el Maresme,Motos,1279
+2015,10,Sant Martí,71,Provençals del Poblenou,Motos,2024
+2015,10,Sant Martí,72,Sant Martí de Provençals,Motos,2513
+2015,10,Sant Martí,73,la Verneda i la Pau,Motos,2329
+2015,99,No consta,99,No consta,Motos,332
+2015,1,Ciutat Vella,1,el Raval,Ciclomotors,1637
+2015,1,Ciutat Vella,2,el Barri Gòtic,Ciclomotors,615
+2015,1,Ciutat Vella,3,la Barceloneta,Ciclomotors,627
+2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Ciclomotors,958
+2015,2,Eixample,5,el Fort Pienc,Ciclomotors,1132
+2015,2,Eixample,6,la Sagrada Família,Ciclomotors,1881
+2015,2,Eixample,7,la Dreta de l'Eixample,Ciclomotors,1716
+2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Ciclomotors,1619
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Ciclomotors,2269
+2015,2,Eixample,10,Sant Antoni,Ciclomotors,1343
+2015,3,Sants-Montjuïc,11,el Poble Sec,Ciclomotors,1529
+2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Ciclomotors,99
+2015,3,Sants-Montjuïc,13,la Marina de Port,Ciclomotors,1064
+2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Ciclomotors,440
+2015,3,Sants-Montjuïc,15,Hostafrancs,Ciclomotors,579
+2015,3,Sants-Montjuïc,16,la Bordeta,Ciclomotors,668
+2015,3,Sants-Montjuïc,17,Sants - Badal,Ciclomotors,891
+2015,3,Sants-Montjuïc,18,Sants,Ciclomotors,1488
+2015,4,Les Corts,19,les Corts,Ciclomotors,1742
+2015,4,Les Corts,20,la Maternitat i Sant Ramon,Ciclomotors,909
+2015,4,Les Corts,21,Pedralbes,Ciclomotors,495
+2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Ciclomotors,168
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Ciclomotors,891
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Ciclomotors,665
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Ciclomotors,1122
+2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Ciclomotors,2051
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Ciclomotors,1228
+2015,6,Gràcia,28,Vallcarca i els Penitents,Ciclomotors,659
+2015,6,Gràcia,29,el Coll,Ciclomotors,323
+2015,6,Gràcia,30,la Salut,Ciclomotors,577
+2015,6,Gràcia,31,la Vila de Gràcia,Ciclomotors,1915
+2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Ciclomotors,1383
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Ciclomotors,1055
+2015,7,Horta-Guinardó,34,Can Baró,Ciclomotors,526
+2015,7,Horta-Guinardó,35,el Guinardó,Ciclomotors,1315
+2015,7,Horta-Guinardó,36,la Font d'en Fargues,Ciclomotors,413
+2015,7,Horta-Guinardó,37,el Carmel,Ciclomotors,1549
+2015,7,Horta-Guinardó,38,la Teixonera,Ciclomotors,532
+2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Ciclomotors,267
+2015,7,Horta-Guinardó,40,Montbau,Ciclomotors,123
+2015,7,Horta-Guinardó,41,la Vall d'Hebron,Ciclomotors,158
+2015,7,Horta-Guinardó,42,la Clota,Ciclomotors,31
+2015,7,Horta-Guinardó,43,Horta,Ciclomotors,912
+2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Ciclomotors,787
+2015,8,Nou Barris,45,Porta,Ciclomotors,698
+2015,8,Nou Barris,46,el Turó de la Peira,Ciclomotors,473
+2015,8,Nou Barris,47,Can Peguera,Ciclomotors,130
+2015,8,Nou Barris,48,la Guineueta,Ciclomotors,406
+2015,8,Nou Barris,49,Canyelles,Ciclomotors,268
+2015,8,Nou Barris,50,les Roquetes,Ciclomotors,528
+2015,8,Nou Barris,51,Verdun,Ciclomotors,363
+2015,8,Nou Barris,52,la Prosperitat,Ciclomotors,782
+2015,8,Nou Barris,53,la Trinitat Nova,Ciclomotors,275
+2015,8,Nou Barris,54,Torre Baró,Ciclomotors,136
+2015,8,Nou Barris,55,Ciutat Meridiana,Ciclomotors,279
+2015,8,Nou Barris,56,Vallbona,Ciclomotors,69
+2015,9,Sant Andreu,57,la Trinitat Vella,Ciclomotors,378
+2015,9,Sant Andreu,58,Baró de Viver,Ciclomotors,79
+2015,9,Sant Andreu,59,el Bon Pastor,Ciclomotors,358
+2015,9,Sant Andreu,60,Sant Andreu,Ciclomotors,1644
+2015,9,Sant Andreu,61,la Sagrera,Ciclomotors,953
+2015,9,Sant Andreu,62,el Congrés i els Indians,Ciclomotors,399
+2015,9,Sant Andreu,63,Navas,Ciclomotors,728
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Ciclomotors,1351
+2015,10,Sant Martí,65,el Clot,Ciclomotors,963
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Ciclomotors,536
+2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Ciclomotors,310
+2015,10,Sant Martí,68,el Poblenou,Ciclomotors,974
+2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Ciclomotors,216
+2015,10,Sant Martí,70,el Besòs i el Maresme,Ciclomotors,695
+2015,10,Sant Martí,71,Provençals del Poblenou,Ciclomotors,646
+2015,10,Sant Martí,72,Sant Martí de Provençals,Ciclomotors,744
+2015,10,Sant Martí,73,la Verneda i la Pau,Ciclomotors,999
+2015,99,No consta,99,No consta,Ciclomotors,150
+2015,1,Ciutat Vella,1,el Raval,Furgonetes,892
+2015,1,Ciutat Vella,2,el Barri Gòtic,Furgonetes,1474
+2015,1,Ciutat Vella,3,la Barceloneta,Furgonetes,609
+2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Furgonetes,517
+2015,2,Eixample,5,el Fort Pienc,Furgonetes,796
+2015,2,Eixample,6,la Sagrada Família,Furgonetes,1031
+2015,2,Eixample,7,la Dreta de l'Eixample,Furgonetes,1911
+2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Furgonetes,1277
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Furgonetes,2519
+2015,2,Eixample,10,Sant Antoni,Furgonetes,857
+2015,3,Sants-Montjuïc,11,el Poble Sec,Furgonetes,981
+2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Furgonetes,850
+2015,3,Sants-Montjuïc,13,la Marina de Port,Furgonetes,680
+2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Furgonetes,767
+2015,3,Sants-Montjuïc,15,Hostafrancs,Furgonetes,419
+2015,3,Sants-Montjuïc,16,la Bordeta,Furgonetes,490
+2015,3,Sants-Montjuïc,17,Sants - Badal,Furgonetes,551
+2015,3,Sants-Montjuïc,18,Sants,Furgonetes,969
+2015,4,Les Corts,19,les Corts,Furgonetes,1331
+2015,4,Les Corts,20,la Maternitat i Sant Ramon,Furgonetes,609
+2015,4,Les Corts,21,Pedralbes,Furgonetes,276
+2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Furgonetes,190
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Furgonetes,577
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Furgonetes,370
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Furgonetes,521
+2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Furgonetes,1311
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Furgonetes,582
+2015,6,Gràcia,28,Vallcarca i els Penitents,Furgonetes,353
+2015,6,Gràcia,29,el Coll,Furgonetes,139
+2015,6,Gràcia,30,la Salut,Furgonetes,262
+2015,6,Gràcia,31,la Vila de Gràcia,Furgonetes,1031
+2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Furgonetes,682
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Furgonetes,594
+2015,7,Horta-Guinardó,34,Can Baró,Furgonetes,208
+2015,7,Horta-Guinardó,35,el Guinardó,Furgonetes,896
+2015,7,Horta-Guinardó,36,la Font d'en Fargues,Furgonetes,277
+2015,7,Horta-Guinardó,37,el Carmel,Furgonetes,648
+2015,7,Horta-Guinardó,38,la Teixonera,Furgonetes,284
+2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Furgonetes,179
+2015,7,Horta-Guinardó,40,Montbau,Furgonetes,99
+2015,7,Horta-Guinardó,41,la Vall d'Hebron,Furgonetes,131
+2015,7,Horta-Guinardó,42,la Clota,Furgonetes,42
+2015,7,Horta-Guinardó,43,Horta,Furgonetes,612
+2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Furgonetes,592
+2015,8,Nou Barris,45,Porta,Furgonetes,506
+2015,8,Nou Barris,46,el Turó de la Peira,Furgonetes,287
+2015,8,Nou Barris,47,Can Peguera,Furgonetes,60
+2015,8,Nou Barris,48,la Guineueta,Furgonetes,266
+2015,8,Nou Barris,49,Canyelles,Furgonetes,163
+2015,8,Nou Barris,50,les Roquetes,Furgonetes,438
+2015,8,Nou Barris,51,Verdun,Furgonetes,276
+2015,8,Nou Barris,52,la Prosperitat,Furgonetes,651
+2015,8,Nou Barris,53,la Trinitat Nova,Furgonetes,189
+2015,8,Nou Barris,54,Torre Baró,Furgonetes,112
+2015,8,Nou Barris,55,Ciutat Meridiana,Furgonetes,227
+2015,8,Nou Barris,56,Vallbona,Furgonetes,46
+2015,9,Sant Andreu,57,la Trinitat Vella,Furgonetes,279
+2015,9,Sant Andreu,58,Baró de Viver,Furgonetes,67
+2015,9,Sant Andreu,59,el Bon Pastor,Furgonetes,835
+2015,9,Sant Andreu,60,Sant Andreu,Furgonetes,1281
+2015,9,Sant Andreu,61,la Sagrera,Furgonetes,586
+2015,9,Sant Andreu,62,el Congrés i els Indians,Furgonetes,309
+2015,9,Sant Andreu,63,Navas,Furgonetes,497
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Furgonetes,877
+2015,10,Sant Martí,65,el Clot,Furgonetes,579
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Furgonetes,928
+2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Furgonetes,253
+2015,10,Sant Martí,68,el Poblenou,Furgonetes,829
+2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Furgonetes,258
+2015,10,Sant Martí,70,el Besòs i el Maresme,Furgonetes,520
+2015,10,Sant Martí,71,Provençals del Poblenou,Furgonetes,886
+2015,10,Sant Martí,72,Sant Martí de Provençals,Furgonetes,567
+2015,10,Sant Martí,73,la Verneda i la Pau,Furgonetes,688
+2015,99,No consta,99,No consta,Furgonetes,102
+2015,1,Ciutat Vella,1,el Raval,Camions,416
+2015,1,Ciutat Vella,2,el Barri Gòtic,Camions,1052
+2015,1,Ciutat Vella,3,la Barceloneta,Camions,190
+2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Camions,170
+2015,2,Eixample,5,el Fort Pienc,Camions,325
+2015,2,Eixample,6,la Sagrada Família,Camions,371
+2015,2,Eixample,7,la Dreta de l'Eixample,Camions,1214
+2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Camions,691
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Camions,643
+2015,2,Eixample,10,Sant Antoni,Camions,322
+2015,3,Sants-Montjuïc,11,el Poble Sec,Camions,392
+2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Camions,1672
+2015,3,Sants-Montjuïc,13,la Marina de Port,Camions,507
+2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Camions,370
+2015,3,Sants-Montjuïc,15,Hostafrancs,Camions,324
+2015,3,Sants-Montjuïc,16,la Bordeta,Camions,191
+2015,3,Sants-Montjuïc,17,Sants - Badal,Camions,203
+2015,3,Sants-Montjuïc,18,Sants,Camions,440
+2015,4,Les Corts,19,les Corts,Camions,573
+2015,4,Les Corts,20,la Maternitat i Sant Ramon,Camions,268
+2015,4,Les Corts,21,Pedralbes,Camions,110
+2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Camions,59
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Camions,170
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Camions,127
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Camions,151
+2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Camions,493
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Camions,142
+2015,6,Gràcia,28,Vallcarca i els Penitents,Camions,102
+2015,6,Gràcia,29,el Coll,Camions,61
+2015,6,Gràcia,30,la Salut,Camions,75
+2015,6,Gràcia,31,la Vila de Gràcia,Camions,407
+2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Camions,203
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Camions,190
+2015,7,Horta-Guinardó,34,Can Baró,Camions,94
+2015,7,Horta-Guinardó,35,el Guinardó,Camions,399
+2015,7,Horta-Guinardó,36,la Font d'en Fargues,Camions,99
+2015,7,Horta-Guinardó,37,el Carmel,Camions,302
+2015,7,Horta-Guinardó,38,la Teixonera,Camions,102
+2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Camions,56
+2015,7,Horta-Guinardó,40,Montbau,Camions,31
+2015,7,Horta-Guinardó,41,la Vall d'Hebron,Camions,41
+2015,7,Horta-Guinardó,42,la Clota,Camions,19
+2015,7,Horta-Guinardó,43,Horta,Camions,249
+2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Camions,258
+2015,8,Nou Barris,45,Porta,Camions,213
+2015,8,Nou Barris,46,el Turó de la Peira,Camions,89
+2015,8,Nou Barris,47,Can Peguera,Camions,22
+2015,8,Nou Barris,48,la Guineueta,Camions,110
+2015,8,Nou Barris,49,Canyelles,Camions,73
+2015,8,Nou Barris,50,les Roquetes,Camions,205
+2015,8,Nou Barris,51,Verdun,Camions,125
+2015,8,Nou Barris,52,la Prosperitat,Camions,289
+2015,8,Nou Barris,53,la Trinitat Nova,Camions,74
+2015,8,Nou Barris,54,Torre Baró,Camions,67
+2015,8,Nou Barris,55,Ciutat Meridiana,Camions,128
+2015,8,Nou Barris,56,Vallbona,Camions,26
+2015,9,Sant Andreu,57,la Trinitat Vella,Camions,110
+2015,9,Sant Andreu,58,Baró de Viver,Camions,37
+2015,9,Sant Andreu,59,el Bon Pastor,Camions,829
+2015,9,Sant Andreu,60,Sant Andreu,Camions,466
+2015,9,Sant Andreu,61,la Sagrera,Camions,253
+2015,9,Sant Andreu,62,el Congrés i els Indians,Camions,87
+2015,9,Sant Andreu,63,Navas,Camions,162
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Camions,365
+2015,10,Sant Martí,65,el Clot,Camions,255
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Camions,497
+2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Camions,105
+2015,10,Sant Martí,68,el Poblenou,Camions,377
+2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Camions,129
+2015,10,Sant Martí,70,el Besòs i el Maresme,Camions,293
+2015,10,Sant Martí,71,Provençals del Poblenou,Camions,430
+2015,10,Sant Martí,72,Sant Martí de Provençals,Camions,200
+2015,10,Sant Martí,73,la Verneda i la Pau,Camions,324
+2015,99,No consta,99,No consta,Camions,149
+2015,1,Ciutat Vella,1,el Raval,Altres vehicles,347
+2015,1,Ciutat Vella,2,el Barri Gòtic,Altres vehicles,388
+2015,1,Ciutat Vella,3,la Barceloneta,Altres vehicles,94
+2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Altres vehicles,201
+2015,2,Eixample,5,el Fort Pienc,Altres vehicles,409
+2015,2,Eixample,6,la Sagrada Família,Altres vehicles,456
+2015,2,Eixample,7,la Dreta de l'Eixample,Altres vehicles,1872
+2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Altres vehicles,484
+2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Altres vehicles,457
+2015,2,Eixample,10,Sant Antoni,Altres vehicles,360
+2015,3,Sants-Montjuïc,11,el Poble Sec,Altres vehicles,253
+2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Altres vehicles,3521
+2015,3,Sants-Montjuïc,13,la Marina de Port,Altres vehicles,348
+2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Altres vehicles,98
+2015,3,Sants-Montjuïc,15,Hostafrancs,Altres vehicles,147
+2015,3,Sants-Montjuïc,16,la Bordeta,Altres vehicles,152
+2015,3,Sants-Montjuïc,17,Sants - Badal,Altres vehicles,146
+2015,3,Sants-Montjuïc,18,Sants,Altres vehicles,324
+2015,4,Les Corts,19,les Corts,Altres vehicles,474
+2015,4,Les Corts,20,la Maternitat i Sant Ramon,Altres vehicles,321
+2015,4,Les Corts,21,Pedralbes,Altres vehicles,183
+2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Altres vehicles,48
+2015,5,Sarrià-Sant Gervasi,23,Sarrià,Altres vehicles,265
+2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Altres vehicles,156
+2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Altres vehicles,261
+2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Altres vehicles,685
+2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Altres vehicles,187
+2015,6,Gràcia,28,Vallcarca i els Penitents,Altres vehicles,110
+2015,6,Gràcia,29,el Coll,Altres vehicles,39
+2015,6,Gràcia,30,la Salut,Altres vehicles,92
+2015,6,Gràcia,31,la Vila de Gràcia,Altres vehicles,425
+2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Altres vehicles,187
+2015,7,Horta-Guinardó,33,el Baix Guinardó,Altres vehicles,204
+2015,7,Horta-Guinardó,34,Can Baró,Altres vehicles,78
+2015,7,Horta-Guinardó,35,el Guinardó,Altres vehicles,299
+2015,7,Horta-Guinardó,36,la Font d'en Fargues,Altres vehicles,121
+2015,7,Horta-Guinardó,37,el Carmel,Altres vehicles,175
+2015,7,Horta-Guinardó,38,la Teixonera,Altres vehicles,59
+2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Altres vehicles,45
+2015,7,Horta-Guinardó,40,Montbau,Altres vehicles,30
+2015,7,Horta-Guinardó,41,la Vall d'Hebron,Altres vehicles,41
+2015,7,Horta-Guinardó,42,la Clota,Altres vehicles,3
+2015,7,Horta-Guinardó,43,Horta,Altres vehicles,188
+2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Altres vehicles,190
+2015,8,Nou Barris,45,Porta,Altres vehicles,137
+2015,8,Nou Barris,46,el Turó de la Peira,Altres vehicles,35
+2015,8,Nou Barris,47,Can Peguera,Altres vehicles,14
+2015,8,Nou Barris,48,la Guineueta,Altres vehicles,82
+2015,8,Nou Barris,49,Canyelles,Altres vehicles,62
+2015,8,Nou Barris,50,les Roquetes,Altres vehicles,145
+2015,8,Nou Barris,51,Verdun,Altres vehicles,74
+2015,8,Nou Barris,52,la Prosperitat,Altres vehicles,214
+2015,8,Nou Barris,53,la Trinitat Nova,Altres vehicles,36
+2015,8,Nou Barris,54,Torre Baró,Altres vehicles,33
+2015,8,Nou Barris,55,Ciutat Meridiana,Altres vehicles,65
+2015,8,Nou Barris,56,Vallbona,Altres vehicles,26
+2015,9,Sant Andreu,57,la Trinitat Vella,Altres vehicles,53
+2015,9,Sant Andreu,58,Baró de Viver,Altres vehicles,17
+2015,9,Sant Andreu,59,el Bon Pastor,Altres vehicles,356
+2015,9,Sant Andreu,60,Sant Andreu,Altres vehicles,432
+2015,9,Sant Andreu,61,la Sagrera,Altres vehicles,227
+2015,9,Sant Andreu,62,el Congrés i els Indians,Altres vehicles,107
+2015,9,Sant Andreu,63,Navas,Altres vehicles,169
+2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Altres vehicles,274
+2015,10,Sant Martí,65,el Clot,Altres vehicles,265
+2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Altres vehicles,292
+2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Altres vehicles,98
+2015,10,Sant Martí,68,el Poblenou,Altres vehicles,351
+2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Altres vehicles,123
+2015,10,Sant Martí,70,el Besòs i el Maresme,Altres vehicles,162
+2015,10,Sant Martí,71,Provençals del Poblenou,Altres vehicles,313
+2015,10,Sant Martí,72,Sant Martí de Provençals,Altres vehicles,210
+2015,10,Sant Martí,73,la Verneda i la Pau,Altres vehicles,211
+2015,99,No consta,99,No consta,Altres vehicles,232

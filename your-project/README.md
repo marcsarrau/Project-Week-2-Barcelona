@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Motorcycles in Barcelona
+*[Arnau Angerri & Marc Sarrau]*
 
-*[Your Cohort, Campus & Date]*
+*[Ironhack Data Analytics Bootcamp, Barcelona Oct 2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,28 +16,42 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+The aim of this project is to depict the evolution of the motorcycle and moped park in Barcelona in the last 5 years.  
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+The questions of the project are:
+    - Which district is the most bike-aficionado?
+    - Which district has the most powerful bikes?
+    - What is a "typical" accident?
+        - Most dangerous year, month, day of the month, day of the week, time
+        - Target victim
+
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+This study is based on two datasets:
+    - The motorcycle park in Barcelona (Register of all the motorcycles per district, and its characteristics).
+    - Traffic accidents in Barcelona.
+    
+https://opendata-ajuntament.barcelona.cat/data/es/organization/seguretat
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+We created a new csv table out of the whole traffic data and we extracted the metrics we found the most interesting. We created a Jupyter Notebook file out of the two databases per each year. 
+
+What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? 
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+First we researched about data and we thought one of the most interesting part of transportation is safety, so we focused on the means of transport that is more dangerous: the motorcycle.
+
+You can find it on our Trello down below.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+We organized by simply sketching some notes in paper, asking the TA, in the afternoon. We were continously debating about the direction our project could take to be the most meaningful possible and yet stick to our time constraint.
 
-What does your repository look like? Explain your folder and file structure.
+What does your repository look like?
+Our file structure contained initially a directory for each member to work and then a common data folder for us to read the files. Then we eliminated the individual folders and put it altogether.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides](https://docs.google.com/presentation/d/1p3oWzbkyz1J2zo023AFjopMHWACicgOnzUpZXOUhzaM/edit?usp=sharing)  
+[Trello](https://trello.com/b/HMXnaMkn/project-2-arnau-marc)  
