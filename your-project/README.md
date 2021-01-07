@@ -52,6 +52,6 @@ Our file structure contained initially a directory for each member to work and t
 
 ## Links
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/marcsarrau/Project-Week-2-Barcelona/)  
 [Slides](https://docs.google.com/presentation/d/1p3oWzbkyz1J2zo023AFjopMHWACicgOnzUpZXOUhzaM/edit?usp=sharing)  
 [Trello](https://trello.com/b/HMXnaMkn/project-2-arnau-marc)  
